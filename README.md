@@ -2,9 +2,6 @@
 
 Basic documentation for Bitswap
 
-**Bitswap Documentation**
-
-
 **Table of Contents**
 1. Introduction
    - Project Overview
