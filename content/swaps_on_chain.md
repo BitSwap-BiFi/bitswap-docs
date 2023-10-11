@@ -36,6 +36,5 @@ Bitswap supports atomic swaps, a trustless and decentralized method for exchangi
 
 In all on-chain swap methods, Client Side Validation plays a vital role. It allows users to verify the integrity of the swap, confirm the accuracy of transaction details, and ensure that their assets remain secure throughout the exchange process. Client Side Validation empowers users with full control over their private keys and assets, enhancing the trustlessness of on-chain swaps.
 
----
 
-This section provides an overview of how Bitswap facilitates on-chain swaps with PSBT, scriptless swaps, and atomic swaps while highlighting the significance of Client Side Validation in these processes. Further sections in your documentation can dive deeper into the practical use of these swap methods, provide code examples, and address specific use cases for each type of swap.
+This section provides an overview of how Bitswap facilitates on-chain swaps with PSBT, scriptless swaps, and atomic swaps while highlighting the significance of Client Side Validation in these processes. 
