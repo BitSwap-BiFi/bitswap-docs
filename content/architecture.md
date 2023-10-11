@@ -1,9 +1,9 @@
-## Architecture 
+# Architecture 
 
 Basic documentation section for Bitswap, focusing on its Automated Market Maker (AMM) functionality, utilizing Uniswap-like formulas, and mentioning the integration of RGB for handling multiple assets and DLCs for swaps
 
 
-# Automated Market Maker (AMM)
+## Automated Market Maker (AMM)
 
 Bitswap harnesses the power of Automated Market Maker (AMM) principles to create liquidity pools that enable users to seamlessly trade a variety of assets, including Bitcoin, without the need for traditional order books. This innovative approach ensures the continuous availability of assets for trading and helps determine fair market prices through an algorithmic approach. In this section, we'll explore how Bitswap's AMM functionality works, its formula model, and its seamless integration with Discreet Log Contracts (DLCs) for asset swaps.
 
