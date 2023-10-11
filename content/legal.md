@@ -12,7 +12,7 @@ Bitswap's core code is governed by an open-source license that outlines the term
 
 ### License Type
 
-Bitswap's core code is released under an open-source license known as [Business Source License 1.1], which is designed to provide transparency and freedom to users and contributors.
+Bitswap's core code is released under an open-source license known as Business Source License 1.1, which is designed to provide transparency and freedom to users and contributors.
 
 ### License Terms
 
