@@ -24,7 +24,7 @@ Basic documentation for Bitswap
 8. [Future Integrations](https://github.com/BitSwap-BiFi/bitswap-docs/blob/main/content/integrations.md)
 
 
-11.[Security Considerations](https://github.com/BitSwap-BiFi/bitswap-docs/blob/main/content/security.md)
+11. [Security Considerations](https://github.com/BitSwap-BiFi/bitswap-docs/blob/main/content/security.md)
      
 
 14. [License and Legal](https://github.com/BitSwap-BiFi/bitswap-docs/blob/main/content/legal.md)
