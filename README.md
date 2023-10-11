@@ -3,9 +3,7 @@
 Basic documentation for Bitswap
 
 **Table of Contents**
-1. Introduction
-   - Project Overview
-   - Purpose and Objectives
+1. [Introduction](https://github.com/BitSwap-BiFi/bitswap-docs/blob/main/content/introduction.md)
      
 2. Project Architecture
    - High-Level Architecture
