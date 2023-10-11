@@ -1,5 +1,5 @@
 
-# Advantages of Taproot and Privacy in Bitswap
+# Advantages of Taproot and Privacy on Bitswap
 
 Bitswap harnesses the power of Taproot, a significant upgrade to the Bitcoin network, to enhance privacy, security, and efficiency. This section explores the advantages of Taproot in Bitswap and compares its privacy features with Rollup solutions on the Ethereum blockchain.
 
