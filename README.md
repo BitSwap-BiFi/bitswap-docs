@@ -6,8 +6,7 @@ Basic documentation for Bitswap
 1. Introduction
    - Project Overview
    - Purpose and Objectives
-   - Target Audience
-
+     
 2. Project Architecture
    - High-Level Architecture
    - Components and Modules
