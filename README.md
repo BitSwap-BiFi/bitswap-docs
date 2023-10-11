@@ -25,10 +25,7 @@ Basic documentation for Bitswap
 
 
 11. Security Considerations
- 
-
-13. Contributors and Acknowledgments
-    
+     
 
 14. License and Legal
 
