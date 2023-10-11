@@ -1,6 +1,6 @@
 ## Architecture 
 
-Basic documentation section for Bitswap, focusing on its Automated Market Maker (AMM) functionality, utilizing Uniswap-like formulas, and mentioning the integration of RGB for handling multiple assets and DLCs for swaps:
+Basic documentation section for Bitswap, focusing on its Automated Market Maker (AMM) functionality, utilizing Uniswap-like formulas, and mentioning the integration of RGB for handling multiple assets and DLCs for swaps
 
 
 # Automated Market Maker (AMM)
