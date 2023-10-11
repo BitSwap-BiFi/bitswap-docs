@@ -16,7 +16,7 @@ Bitswap utilizes the RGB protocol for the tokenization of assets, including the 
 
 DLCs ensure that transfers of RGB20 assets are executed with privacy and security as top priorities. The contract terms are predefined, and the execution occurs without revealing sensitive information about the parties involved.
 
-## DLCs' Mission in DEX
+## DLCs' Mission on DEX
 
 ### Enabling Complex Financial Transactions
 
