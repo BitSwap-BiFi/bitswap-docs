@@ -1,4 +1,4 @@
-# Future Integrations with Bitfrost in Bitswap
+# Future Integrations with Bitfrost on Bitswap
 
 Bitswap is continually evolving to provide cutting-edge features and enhance the user experience. In the near future, we plan to integrate Bitfrost, a powerful technology supporting state channels, Taproot, multi-peer participation, composability, and RGB. This section delves into what users can expect from these exciting future integrations.
 
