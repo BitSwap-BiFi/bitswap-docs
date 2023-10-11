@@ -2,8 +2,6 @@
 
 Basic documentation for Bitswap
 
-Creating a basic documentation for your project is essential for clarity, communication, and collaboration. Here's a structured outline to help you document your project, covering DLCs (Discreet Log Contracts), swaps on-chain, Client Side Validation, swaps on the Lightning Network, Taproot, and potential future integrations:
-
 **Bitswap Documentation**
 
 
