@@ -29,5 +29,4 @@ Basic documentation for Bitswap
 
 14. License and Legal
 
-17. Appendices
 
