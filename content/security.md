@@ -1,4 +1,4 @@
-# Security Considerations in Bitswap
+# Security Considerations on Bitswap
 
 Security is paramount in the Bitswap ecosystem. This section provides an overview of the security considerations, potential risks, and best practices to ensure the safety and integrity of your assets and transactions.
 
