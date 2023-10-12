@@ -50,7 +50,7 @@ Having multiple channels with tokens ensures that users have access to a variety
 
 Multiple channels provide the flexibility for users to distribute their assets across different channels. This can contribute to enhanced privacy, as users can segregate their funds based on their preferences.
 
-# Conclusion
+## Conclusion
 
 The future integrations with Bitfrost in Bitswap promise exciting developments in the realm of state channels, Taproot, multi-peer participation, composability, and RGB compatibility. These advancements aim to provide a more robust, private, and versatile ecosystem for users.
 
