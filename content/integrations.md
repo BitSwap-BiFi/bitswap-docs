@@ -30,7 +30,7 @@ Bitswap is committed to composability, allowing users to interact with various p
 
 Bitfrost and Bitswap are set to be compatible with RGB, further expanding the range of assets that can be securely tokenized and transacted within the ecosystem. This includes NFTs, tokenized securities, and much more.
 
-# The Importance of Multiple Channels with Tokens on the Lightning Network
+## The Importance of Multiple Channels with Tokens on the Lightning Network
 
 In the world of the Lightning Network, having multiple channels with tokens plays a vital role in enhancing the user experience and network efficiency. Here's why:
 
