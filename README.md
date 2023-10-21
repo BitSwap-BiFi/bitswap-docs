@@ -1,4 +1,4 @@
-# Bitswap Docs
+# Bitswap Docs ⚡
 
 Basic documentation for Bitswap
 
