@@ -30,7 +30,7 @@ Bitswap introduces scriptless swaps, a technique that simplifies the on-chain sw
 
 ### The Atomic Swap Mechanism
 
-Bitswap supports atomic swaps, a trustless and decentralized method for exchanging assets between different blockchains. Atomic swaps ensure that both parties receive their assets simultaneously, or the swap does not occur at all.
+Bitswap supports atomic swaps, a trustless and decentralized method for exchanging assets between different RGB assets. Atomic swaps ensure that both parties receive their assets simultaneously, or the swap does not occur at all.
 
 ## Role of Client Side Validation
 
