@@ -3,6 +3,7 @@
 Basic documentation for Bitswap
 
 **Table of Contents**
+
 1. [Introduction](https://github.com/BitSwap-BiFi/bitswap-docs/blob/main/content/introduction.md)
      
 2. [Project Architecture](https://github.com/BitSwap-BiFi/bitswap-docs/blob/main/content/architecture.md)
@@ -19,12 +20,16 @@ Basic documentation for Bitswap
  
 
 7. [Taproot](https://github.com/BitSwap-BiFi/bitswap-docs/blob/main/content/taproot.md)
-  
 
-8. [Future Integrations](https://github.com/BitSwap-BiFi/bitswap-docs/blob/main/content/integrations.md)
+8. Taproot Channels
+
+9. Prime & Liquid 
+   
+
+11. [Future Integrations](https://github.com/BitSwap-BiFi/bitswap-docs/blob/main/content/integrations.md)
 
 
-11. [Security Considerations](https://github.com/BitSwap-BiFi/bitswap-docs/blob/main/content/security.md)
+12. [Security Considerations](https://github.com/BitSwap-BiFi/bitswap-docs/blob/main/content/security.md)
      
 
 14. [License and Legal](https://github.com/BitSwap-BiFi/bitswap-docs/blob/main/content/legal.md)
