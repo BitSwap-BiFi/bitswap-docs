@@ -23,7 +23,9 @@ Basic documentation for Bitswap
 
 8. Taproot Channels
 
-9. Prime & Liquid 
+9. Prime & Liquid
+
+10. RGB Wallets
    
 
 11. [Future Integrations](https://github.com/BitSwap-BiFi/bitswap-docs/blob/main/content/integrations.md)
