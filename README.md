@@ -23,7 +23,7 @@ Basic documentation for Bitswap
 
 8. Taproot Channels
 
-9. Prime & Liquid
+9. Prime & Liquid (UTXO Protocols)
 
 10. RGB Wallets
    
