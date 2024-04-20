@@ -21,7 +21,7 @@ Basic documentation for Bitswap
 
 7. [Taproot](https://github.com/BitSwap-BiFi/bitswap-docs/blob/main/content/taproot.md)
 
-8. Taproot Channels
+8. [Taproot Channels](https://github.com/BitSwap-BiFi/bitswap-docs/blob/main/content/taproot_channel.md)
 
 9. Prime & Liquid (UTXO Protocols)
 
